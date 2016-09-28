@@ -5,7 +5,7 @@ Source code of the group assignment completed as part of the [COMPGI15 - Informa
 
 ---
 
-#### Group 10 Members
+#### Group members
 
 * [Sergiu Tripon](https://github.com/SergiuTripon) | sergiu.tripon.15@ucl.ac.uk | MSc WSBDA (Web Science and Big Data Analytics)
 * [Santiago Gonzalez](https://github.com/santteegt) | hernan.toral.15@ucl.ac.uk | MSc WSBDA (Web Science and Big Data Analytics)
@@ -42,7 +42,7 @@ data/nowplaying_subset.csv.tar.gz
 
 ---
 
-#### System Requirements
+#### System requirements
 
 ```
 Python 2.7.x - required by GraphLab Create
@@ -95,7 +95,7 @@ $ deactivate
 
 ---
 
-#### Running Analysis
+#### Running analysis
 
 To run the Analysis, you need to run the `analysis.py` file by following the steps below:
 
@@ -198,7 +198,7 @@ dato/analysis/output/filtered_user_count_3_2016_04_06.csv
 
 ---
 
-#### Running Basic Recommenders
+#### Running basic recommenders
 
 Basic Recommenders available:
 
@@ -270,7 +270,7 @@ dato/basic_rm/output/pop_evaluation.csv
 
 ---
 
-#### Running Collaborative Deep Learning Model
+#### Running collaborative deep learning model
 
 1. Execute the scripts `setup_cdl_linux` or the `setup_cdl_mac` depending on the OS you are using.
 2. Execute the following commands in a command shell under the home directory of this code repository:
