@@ -1,7 +1,7 @@
 
-### IRDM - Collaborative filtering project using Deep Learning - Group Assignment Code
+### IRDM - Group Assignment - Collaborative filtering using Deep Learning - Source code
 
-This is the code of the group assignment I completed as part of the [COMPGI15 - Information Retrieval and Data Mining](http://www.cs.ucl.ac.uk/teaching_learning/syllabus/mscml/gi15_information_retrieval_data_mining/) module (MSc Web Science and Big Data Analytics) which I undertook at UCL.
+Source code of the group assignment completed as part of the [COMPGI15 - Information Retrieval and Data Mining](http://www.cs.ucl.ac.uk/teaching_learning/syllabus/mscml/gi15_information_retrieval_data_mining/) module (MSc Web Science and Big Data Analytics) at [University College London](http://www.ucl.ac.uk/).
 
 ---
 
